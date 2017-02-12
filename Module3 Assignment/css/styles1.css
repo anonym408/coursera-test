@@ -10,8 +10,41 @@ body {
 	 height: 80px;
  }
 
+ 
+ .navbar-brand {
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
 .navbar-brand  h1{
 	font-family: Comic Sans MS;
+	margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+    padding-bottom: 25px;
+}
+
+
+#nav-list {
+  margin-top: 10px;
+}
+
+#nav-list a {
+  color: black;
+  text-align: center;
+  background-color: green;
+}
+#nav-list a:hover {
+  background:  #DEB887;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #337ab7;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -55px;
 }
 
 h3{
@@ -25,6 +58,7 @@ h3{
 	background-color: #DEB887;
 	margin: 30px 30px 30px 30px;
 }
+
 .text-center{
 	font-family: 'Sansita', sans-serif;
 }
@@ -37,3 +71,11 @@ p{
 	color: #008000;
 	font-weight: bold;
 }
+
+
+h2{
+	margin-bottom: 40px;
+}
+
+
+
