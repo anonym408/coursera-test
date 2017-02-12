@@ -1,0 +1,39 @@
+body {
+  font-size: 16px;
+  font-family: 'Lora', sans-serif;
+ }
+  
+#header-nav{
+	 background-color: #8FBC8F;
+	 border-radius: 0;
+	 border: 0;
+	 height: 80px;
+ }
+
+.navbar-brand  h1{
+	font-family: Comic Sans MS;
+}
+
+h3{
+	font-size: 1.2em;
+	color: #191970;
+	text-align: center;
+	padding-top: 10px;
+}
+
+.container1, .container2, .container3 {
+	background-color: #DEB887;
+	margin: 30px 30px 30px 30px;
+}
+.text-center{
+	font-family: 'Sansita', sans-serif;
+}
+
+p{
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+	color: #008000;
+	font-weight: bold;
+}
